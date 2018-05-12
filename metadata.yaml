@@ -1,0 +1,28 @@
+_repo: The-Gold-ThreadA-Story-for-the-Young_26039
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26039-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Macleod, Norman
+    birthdate: 1812
+    deathdate: 1872
+    gutenberg_agent_id: '4453'
+    url: http://www.gutenberg.org/2009/agents/4453
+    wikipedia: https://en.wikipedia.org/wiki/Norman_Macleod_%281812%E2%80%931872%29
+description: ''
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26039'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+title: 'The Gold Thread: A Story for the Young'
+url: http://www.gutenberg.org/ebooks/26039
