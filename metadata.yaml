@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4453
     wikipedia: https://en.wikipedia.org/wiki/Norman_Macleod_%281812%E2%80%931872%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26039#The-Gold-ThreadA-Story-for-the-Young
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
